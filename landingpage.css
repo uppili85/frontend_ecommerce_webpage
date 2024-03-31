@@ -1,0 +1,135 @@
+
+
+.s{
+    margin-left: 180px;
+}
+
+.search-box{
+    border: 20px solid;
+    
+}
+
+#btn1{
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+   
+}
+
+.navigation{
+    border: 1px solid black;
+    background-color: white;
+}
+
+#n1,#n2,#n3,#n4{
+    color: black;
+    font-weight: bold;
+}
+
+.banner1{
+    margin-top: 20px;
+    background-color: black;
+    width: 180px;
+    height: 250px;
+    
+   
+    flex-wrap: wrap;
+
+    position: fixed;
+}
+
+
+
+.banner{
+    border-radius: 75px;
+    margin-top: 10px;
+    height: 250px;
+    width: 100px;
+}
+
+.top-cata{
+    margin-top: 20px;
+    margin-left: 15px;
+   
+    
+}
+
+#top1,#top2,#top3,#top4,#top5,#top6{
+    
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-color: black;
+    
+}
+
+.top1img,.top2img,.top3img,.top4img,.top5img,.top6img{
+    font-size: 50px;
+    color: white;
+    margin-left: 2%;
+}
+
+#ppheading{
+    margin-top: 50px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.card1{
+    margin-top: 20px;
+}
+
+.delivery{
+    width: 90px;
+    height: 190px;
+    padding-right: 150px;
+}
+
+#sub-btn{
+    background-color: black;
+    color: white;
+    width: 100px;
+    border-radius: 10px;
+    box-shadow: 5px;
+    height: 35px;
+}
+
+#sub-box{
+    width: 400px;
+    height: 35px;
+    background-color: white;
+    border-color: black;
+}
+
+#sub-stmt{
+    font-size: 15px;
+}
+
+#phone-num{
+    margin-top: 10px;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 50%;
+  }
+
+ .fa-whatsapp{
+    color: green;
+ }
+
+ .fa-youtube{
+    color: red;
+ }
+
+ .last-crd{
+    background-color: lightsteelblue;
+ }
+  
